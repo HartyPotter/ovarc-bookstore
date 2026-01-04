@@ -1,0 +1,3 @@
+store_name,store_address,book_name,author_name,price,pages,logo
+Bookstore A,123 Main St,Book 1,Author X,19.99,250,uploads/logos/favicon.ivo
+Bookstore B,456 Market St,Book 2,Author Y,9.99,150,uploads/logos/favicon.ivo
